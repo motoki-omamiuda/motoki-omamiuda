@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-to-ki)](https://github.com/anuraghazra/github-readme-stats)
 
