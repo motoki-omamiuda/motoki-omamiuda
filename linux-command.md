@@ -12,7 +12,7 @@
 ```shell
 grep 'search_string' file-name.txt
 ```
-このコマンドでは、```file_name.txt```から```search_string```を検索している。  
+このコマンドでは、`file_name.txt`から`search_string`を検索している。  
 その他のオプション
 
 **-r**
@@ -45,7 +45,7 @@ grep 'search_string' file1.txt file2.txt
 ```shell
 find /path/ -type f -name '*search_string*'
 ```
-このコマンドでは、```search_string```をファイル名に含んだファイルを検索している。  
+このコマンドでは、`search_string`をファイル名に含んだファイルを検索している。  
 その他のオプション
 
 **複数の条件で検索**
