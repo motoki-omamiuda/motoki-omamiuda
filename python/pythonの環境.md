@@ -15,10 +15,10 @@ pyenv で設定した version の解除
 
 
 # 仮想環境の設定(venv)
-仮想環境の作成
+仮想環境の作成  
 ```python -m venv {env-name}```
 
-仮想環境の実行
+仮想環境の実行  
 ```source ./{env-name}/bin/activate ```
 
 pip installすると

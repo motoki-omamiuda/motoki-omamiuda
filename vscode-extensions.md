@@ -1,18 +1,22 @@
 # VSCode Extensions
 ## 一般的に便利な機能
-### Code Spell Checker
+**Code Spell Checker**  
 スペルミスが無いか調べてくれる。
-### **Error Lens**
+
+**Error Lens**  
 エラーが発生している行にエラー内容を表示してくれる。
-### Github Copilot
+
+**Github Copilot**  
 AIが自動で適切なコードを作成してくれる。
-### indent rainbow
+
+**indent rainbow**  
 インデントがわかりやすいようにカラフルに表示してくれる。
-### trailing spaces
+
+**trailing spaces**  
 空白がある部分を赤く表示してくれる。
 
 ## Python
-### flake8
+**flake8**  
 pythonの書き方規約に準じない書き方をした場合にエラーを出す。  
 ```
 ignore = E226,E302,E41
