@@ -8,36 +8,24 @@
 
 <a id=grep></a>
 ## grep
-ファイル内の文字列検索を行うコマンド
+ファイル内の文字列検索を行うコマンド  
+
+このコマンドでは、`file_name.txt`から`search_string`を検索し、それがある行番号を出力している。  
 ```shell
-grep 'search_string' file-name.txt
+grep -n 'search_string' file-name.txt
 ```
-このコマンドでは、`file_name.txt`から`search_string`を検索している。  
-その他のオプション
 
 **-r**
+ディレクトリとそのサブディレクトリ内の全ファイルを再帰的に検索
 ```shell
 grep -r 'search_string' /path/
 ```
-ディレクトリとそのサブディレクトリ内の全ファイルを再帰的に検索
 
-**-i**
+**-l**
+検索文字列を含むファイルの名前のみを表示
 ```shell
-grep -i 'search_string' filename.txt
+grep -r -l 'search_string' /path/
 ```
-大文字小文字を区別せずに検索
-
-**-n**
-```shell
-grep -n 'search_string' filename.txt
-```
-大文字小文字を区別せずに検索
-
-**other**
-```shell
-grep 'search_string' file1.txt file2.txt
-```
-複数ファイルでの検索
 
 <a id=find></a>
 ## find
