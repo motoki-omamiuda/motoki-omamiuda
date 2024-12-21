@@ -1,16 +1,17 @@
-### Hi there 👋
+## 👋 I`m Motoki Omamiuda
 
-<!--
-**mo-to-ki/mo-to-ki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 public repositories
+* [**gakushuin**](https://github.com/mo-to-ki/gakushuin)  
+    what I studied at university of Gakushuin
 
-Here are some ideas to get you started:
+* [**artificial intelligence**](https://github.com/mo-to-ki/artificial-intelligence)  
+    what I studied about artificial intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [**github pages**](https://github.com/mo-to-ki/mo-to-ki.github.io)  
+    my portfolio
+
+* [**qiita articles**](https://github.com/mo-to-ki/qiita-articles)  
+    this repository contains articles on qiita
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-to-ki)](https://github.com/anuraghazra/github-readme-stats) -->
