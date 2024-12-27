@@ -1,6 +1,6 @@
-## 👋 I`m Motoki Omamiuda
+## Motoki Omamiuda
 
-## 🚀 public repositories
+## public repositories
 * [**gakushuin**](https://github.com/mo-to-ki/gakushuin)  
     what I studied at university of Gakushuin
 
