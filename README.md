@@ -1,8 +1,6 @@
-## Motoki Omamiuda
-
 ## public repositories
 * [**gakushuin**](https://github.com/mo-to-ki/gakushuin)  
-    what I studied at university of Gakushuin
+    what I studied at university of gakushuin
 
 * [**artificial intelligence**](https://github.com/mo-to-ki/artificial-intelligence)  
     what I studied about artificial intelligence
