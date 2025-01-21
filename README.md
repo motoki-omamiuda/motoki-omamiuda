@@ -1,5 +1,9 @@
+## contact
+[linkedin - motoki-omamiuda](https://jp.linkedin.com/in/motoki-omamiuda)  
+<!-- * [zenn - @mamech](https://zenn.dev/mamech) -->
+
 > [!NOTE]
-> リポジトリ名にはキャメルケースを使う！
+> リポジトリ名にはケバブケースを使う！
 
 <!-- <div>
     <img src="https://komarev.com/ghpvc/?username=mo-to-ki" />
