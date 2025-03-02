@@ -1,13 +1,14 @@
-## contact
-omamiuda1011@gmail.com
-
 ## account
-* medium: [@omamiuda1011](https://medium.com/@omamiuda1011)
-* zenn: [@mamecche](https://zenn.dev/mamech)
+medium: [@omamiuda1011](https://medium.com/@omamiuda1011)  
+zenn: [@mamecche](https://zenn.dev/mamech)
+
+<!--
 * dev.to: [@motoki_omamiuda](https://dev.to/motoki_omamiuda)
 * qiita: [@motoki_omamiuda](https://qiita.com/motoki_omamiuda)
+-->
 
-<!-- * [zenn - @mamech](https://zenn.dev/mamech) -->
+## contact
+omamiuda1011@gmail.com
 
 > [!NOTE]
 > Use **kebab-case** for my repository names( for my future self ).
